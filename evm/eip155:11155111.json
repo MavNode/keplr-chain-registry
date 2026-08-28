@@ -1,10 +1,10 @@
 {
-  "rpc": "https://sepolia.drpc.org",
-  "websocket": "wss://sepolia.drpc.org",
+  "rpc": "https://ethereum-sepolia-rpc.publicnode.com",
+  "websocket": "wss://ethereum-sepolia-rpc.publicnode.com",
   "nodeProvider": {
-    "name": "dRPC",
-    "website": "https://drpc.org/",
-    "discord": "https://discord.com/invite/Kyu3zt42bJ"
+    "name": "Allnodes",
+    "website": "https://www.allnodes.com/",
+    "discord": "https://discord.com/invite/allnodes"
   },
   "chainId": "eip155:11155111",
   "chainName": "Ethereum Sepolia",
